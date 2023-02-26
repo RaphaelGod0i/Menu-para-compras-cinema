@@ -1,0 +1,15 @@
+C:\Users\Raphael\source\repos\MenuCinema\MenuCinema\bin\Debug\net6.0\MenuCinema.exe
+C:\Users\Raphael\source\repos\MenuCinema\MenuCinema\bin\Debug\net6.0\MenuCinema.deps.json
+C:\Users\Raphael\source\repos\MenuCinema\MenuCinema\bin\Debug\net6.0\MenuCinema.runtimeconfig.json
+C:\Users\Raphael\source\repos\MenuCinema\MenuCinema\bin\Debug\net6.0\MenuCinema.dll
+C:\Users\Raphael\source\repos\MenuCinema\MenuCinema\bin\Debug\net6.0\MenuCinema.pdb
+C:\Users\Raphael\source\repos\MenuCinema\MenuCinema\obj\Debug\net6.0\MenuCinema.csproj.AssemblyReference.cache
+C:\Users\Raphael\source\repos\MenuCinema\MenuCinema\obj\Debug\net6.0\MenuCinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raphael\source\repos\MenuCinema\MenuCinema\obj\Debug\net6.0\MenuCinema.AssemblyInfoInputs.cache
+C:\Users\Raphael\source\repos\MenuCinema\MenuCinema\obj\Debug\net6.0\MenuCinema.AssemblyInfo.cs
+C:\Users\Raphael\source\repos\MenuCinema\MenuCinema\obj\Debug\net6.0\MenuCinema.csproj.CoreCompileInputs.cache
+C:\Users\Raphael\source\repos\MenuCinema\MenuCinema\obj\Debug\net6.0\MenuCinema.dll
+C:\Users\Raphael\source\repos\MenuCinema\MenuCinema\obj\Debug\net6.0\refint\MenuCinema.dll
+C:\Users\Raphael\source\repos\MenuCinema\MenuCinema\obj\Debug\net6.0\MenuCinema.pdb
+C:\Users\Raphael\source\repos\MenuCinema\MenuCinema\obj\Debug\net6.0\MenuCinema.genruntimeconfig.cache
+C:\Users\Raphael\source\repos\MenuCinema\MenuCinema\obj\Debug\net6.0\ref\MenuCinema.dll
